@@ -54,25 +54,6 @@ Vim da **Engenharia Mecânica** e migrei para tecnologia em 2019. Passei mais de
   </tr>
 </table>
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja-Mantris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja-Mantris&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielCoruja-Mantris&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCoruja-Mantris/GabrielCoruja-Mantris/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCoruja-Mantris/GabrielCoruja-Mantris/output/github-snake.svg" />
-    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/GabrielCoruja-Mantris/GabrielCoruja-Mantris/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
 ## 🧭 Trajetória
 
 | Período | Experiência |
