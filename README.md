@@ -54,6 +54,14 @@ Vim da **Engenharia Mecânica** e migrei para tecnologia em 2019. Passei mais de
   </tr>
 </table>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCoruja-Mantris/GabrielCoruja-Mantris/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCoruja-Mantris/GabrielCoruja-Mantris/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/GabrielCoruja-Mantris/GabrielCoruja-Mantris/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 ## 🧭 Trajetória
 
 | Período | Experiência |
